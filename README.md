@@ -2,7 +2,7 @@
 Script login python
 Python3 
 
-<img alt="version" src ="https://img.shields.io/badge/Login-Python-0.1-red.svg">
+https://img.shields.io/bower/v/login-Python
 
 # How to install 
 
