@@ -3,6 +3,8 @@ Script login python
 Python3 
 
 # How to install 
+
+```
 - pkg update 
 - pkg upgrade
 - pkg install python2
@@ -11,6 +13,8 @@ Python3
 - ls
 - cd login-python
 - python2 login-python.py
+
+```
 
 # Login default
 - Username : agilbagus
@@ -21,4 +25,3 @@ Python3
 - ls
 - cd login-python
 - nano login-python.py
-
