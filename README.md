@@ -1,6 +1,7 @@
 # login-python
 Script login python
 Python3 
+https://img.shields.io/appveyor/build/version/0.1?style=social
 
 # How to install 
 
