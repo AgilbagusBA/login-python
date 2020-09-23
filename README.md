@@ -2,7 +2,7 @@
 Script login python
 Python3 
 
-https://img.shields.io/bower/v/login-Python
+
 
 # How to install 
 
