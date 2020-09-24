@@ -14,7 +14,7 @@ Python3
 - git clone https://github.com/AgilbagusBA/login-python
 - ls
 - cd login-python
-- python2 login-python.py
+- python3 login-python.py
 
 ```
 
